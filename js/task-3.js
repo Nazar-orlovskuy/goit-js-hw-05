@@ -3,7 +3,7 @@ const getUsersSortedByFriendsCount = (users) =>
 
 
 console.log(
-  sortByDescendingFriendCount([
+  getUsersSortedByFriendsCount([
     {
       name: "Moore Hensley",
       friends: ["Sharron Pace"],
